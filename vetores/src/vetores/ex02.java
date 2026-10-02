@@ -31,6 +31,7 @@ public class ex02 {
 				num[i] = 5 * i;
 			}
 			
+			
 			System.out.println(num[i] + 5);
 		
 		}
