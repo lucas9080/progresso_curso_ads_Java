@@ -20,7 +20,7 @@ public class ex03 {
 		System.out.println(cont[i]);
 	}
 		
-	System.out.println(cont[5]);
+	
 	}
 
 }
